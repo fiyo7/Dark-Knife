@@ -12,5 +12,12 @@
     "role": "reseller",
     "expiresAt": 1793192020916,
     "createdAt": 1761656020916
+  },
+  {
+    "username": "usn",
+    "password": "pw",
+    "role": "owner",
+    "expiresAt": 1793192020916,
+    "createdAt": 1761656020916
   }
 ]
