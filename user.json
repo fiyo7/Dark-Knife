@@ -1,6 +1,6 @@
 [
   {
-    "username": "Satrya",
+    "username": "fiyo",
     "password": "owner",
     "role": "owner",
     "expiresAt": 1793192020916,
@@ -14,10 +14,17 @@
     "createdAt": 1761656020916
   },
   {
-    "username": "usn",
-    "password": "pw",
+    "username": "fan",
+    "password": "owner",
     "role": "owner",
     "expiresAt": 1793192020916,
     "createdAt": 1761656020916
-  }
+  },
+   {
+    "username": "dapzy",
+    "password": "owner",
+    "role": "owner",
+    "expiresAt": 1793192020916,
+    "createdAt": 1761656020916
+   }
 ]
